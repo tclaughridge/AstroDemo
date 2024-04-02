@@ -38,4 +38,3 @@ export async function testDbConnection() {
 //       console.log("Database connection failed.");
 //     }
 //   });
-
